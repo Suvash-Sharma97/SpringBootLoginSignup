@@ -1,4 +1,4 @@
-# Signup, Login with Email Verification Tutorial
+# Signup, Login with Email Verification
 
 ## Overview
 
@@ -18,5 +18,7 @@ Before running the application, ensure you have the following installed:
 
 - Java Development Kit (JDK) 8 or newer
 - Maven or Gradle
-- Supabase database
+- MySQL database
 - Postman (for testing endpoints)
+
+This backend can be integrated seamlessly with any frontend application to implement a solid user authentication backend.
